@@ -12,7 +12,7 @@
 
 # Proyecto Integrador del Cuarto Semestre: New-Copy-Paste E-Commerce
 
-¡Bienvenidos a New-Copy-Paste E-Commerce!
+# ¡Bienvenidos a New-Copy-Paste E-Commerce!
 
 ## Descripción del Proyecto
 New-Copy-Paste E-Commerce es un emocionante proyecto desarrollado como parte de nuestro cuarto semestre. Nuestra plataforma ofrece una solución integral para empresas y personas que desean incursionar en el mundo del comercio en línea. Con New-Copy-Paste, podrás crear tu propia tienda en línea, gestionar productos, categorías, precios, características y más, para llegar a tus clientes de manera efectiva.
