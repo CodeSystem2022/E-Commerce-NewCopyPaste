@@ -9,6 +9,13 @@
 # Proyecto Integrador del Cuarto Semestre del Grupo New-Copy-Paste, E-Commerce
 
 
+
+ Aca los links del proyecto: https://newcopypaste.tech/
+ 
+
+Ejemplo de una pagina siendo usada por un usuario de nuestro sitio: https://newcopypaste.tech/tienda/play-on
+
+
 ${\color{blue}New-Copy-Paste}$ 
 
 
