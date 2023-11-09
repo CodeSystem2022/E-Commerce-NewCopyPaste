@@ -10,7 +10,7 @@
 
 ---
 
-# Proyecto Integrador del Cuarto Semestre: New-Copy-Paste E-Commerce
+# Proyecto Integrador del Cuarto Semestre Tec. Programacion
 
 # ¡Bienvenidos a New-Copy-Paste E-Commerce!
 
