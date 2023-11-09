@@ -16,7 +16,7 @@
 Ejemplo de una pagina siendo usada por un usuario de nuestro sitio: https://newcopypaste.tech/tienda/play-on
 
 
-# ${\color{blue}New-Copy-Paste}$ 
+ ${\color{blue}New-Copy-Paste}$ 
 
 
 # INTEGRANTES:
