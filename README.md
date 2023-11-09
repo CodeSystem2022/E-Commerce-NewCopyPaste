@@ -52,6 +52,15 @@ Esta sección de agradecimiento reconoce de manera general a todos los profesore
 
 ![bandera-argentina-gif6](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/c9f87bf4-47d2-4731-96e0-8c3ba38244f8)
 
+## Nota sobre el Estado del Proyecto
+Cabe destacar que este proyecto es la base de lo que estamos construyendo y, aunque funcional, aún está en una fase de desarrollo activa. Estamos comprometidos a afinar y mejorar continuamente todas las funcionalidades para brindar una experiencia de usuario excepcional.
+
+En este momento, reconocemos que faltan muchas funciones por implementar y hay espacio para agregar características adicionales. Estamos abiertos a sugerencias y modificaciones personalizadas para satisfacer las necesidades específicas de nuestros clientes. La versatilidad y la adaptabilidad son parte fundamental de nuestra visión, y esperamos seguir evolucionando este proyecto con base en la retroalimentación y las demandas del mercado.
+
+Apreciamos su comprensión mientras trabajamos arduamente para llevar este proyecto a su máximo potencial. Estamos emocionados por el viaje que tenemos por delante y agradecemos a todos por ser parte de esta fase inicial de New-Copy-Paste E-Commerce.
+
+
+
 
 ## Capturas de Pantalla
 Aquí puedes ver algunas capturas de pantalla de nuestra plataforma en acción:
