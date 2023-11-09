@@ -38,13 +38,7 @@ Nuestro proyecto fue desarrollado con pasión y dedicación por el equipo New-Co
 ## Contribuciones
 ¡Esperamos que disfrutes explorando New-Copy-Paste E-Commerce! Si deseas contribuir o informar sobre problemas, no dudes en abrir un problema o una solicitud de extracción en nuestro repositorio de GitHub.
 
-## Capturas de Pantalla
-Aquí puedes ver algunas capturas de pantalla de nuestra plataforma en acción:
 
-![Captura de Pantalla 1](![pagina1](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/057cf7ec-0b42-4c05-8494-7e049b8cf4ec)
-)
-![Captura de Pantalla 2](![2](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/1c613ea8-286a-49a8-bbfd-192c39791306)
-)
 
 ## Agradecimientos
 Queremos expresar nuestro sincero agradecimiento a todos los profesores que han sido parte de nuestra formación y desarrollo en el Grupo New-Copy-Paste. Su dedicación, apoyo y conocimientos han sido esenciales en nuestro camino hacia la creación de New-Copy-Paste E-Commerce.
@@ -57,5 +51,10 @@ Esta sección de agradecimiento reconoce de manera general a todos los profesore
 ![utn-nacional](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/83142085-da6a-44b7-b803-9586eccad403)    ![bandera-argentina-gif6](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/defbdeaa-c492-45b9-bba3-16bcda81868a)
 
 
+## Capturas de Pantalla
+Aquí puedes ver algunas capturas de pantalla de nuestra plataforma en acción:
 
 
+![pagina1](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/e931715c-8ec5-4a74-aef6-a30248374fa3)
+
+![2](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/281b1a78-8031-4f9e-bef4-f1d5e0ce4598)
