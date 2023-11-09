@@ -6,7 +6,7 @@
 ![i'm-not-ok-not-ok](https://user-images.githubusercontent.com/106162059/233731615-e9d6d929-ed5d-4b60-8dec-b8049caf5622.gif)
 
  
-¡Hola! Aquí tienes un ejemplo de presentación que puedes utilizar en el archivo README de tu proyecto en GitHub:
+
 
 ---
 
