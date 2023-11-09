@@ -49,7 +49,8 @@ Esta sección de agradecimiento reconoce de manera general a todos los profesore
 
 ![utn-nacional](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/7597112f-cd1b-4400-b1fe-917e8bb679f5)
 
-    ![bandera-argentina-gif6](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/defbdeaa-c492-45b9-bba3-16bcda81868a)
+
+![bandera-argentina-gif6](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/c9f87bf4-47d2-4731-96e0-8c3ba38244f8)
 
 
 ## Capturas de Pantalla
