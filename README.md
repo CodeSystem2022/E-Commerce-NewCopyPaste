@@ -32,7 +32,7 @@ New-Copy-Paste E-Commerce es un emocionante proyecto desarrollado como parte de 
 Nuestro proyecto fue desarrollado con pasión y dedicación por el equipo New-Copy-Paste. Conócenos:
 
 - 🧑 Matías Giménez
-- 🧑 Franco Mesas
+- 🧑 Diego F. Mesas
 - 🧑 Sebastián Verguesio
 
 ## Contribuciones
