@@ -41,8 +41,10 @@ Nuestro proyecto fue desarrollado con pasión y dedicación por el equipo New-Co
 ## Capturas de Pantalla
 Aquí puedes ver algunas capturas de pantalla de nuestra plataforma en acción:
 
-![Captura de Pantalla 1](ruta/a/imagen1.png)
-![Captura de Pantalla 2](ruta/a/imagen2.png)
+![Captura de Pantalla 1](![pagina1](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/057cf7ec-0b42-4c05-8494-7e049b8cf4ec)
+)
+![Captura de Pantalla 2](![2](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/1c613ea8-286a-49a8-bbfd-192c39791306)
+)
 
 ## Agradecimientos
 Queremos expresar nuestro sincero agradecimiento a todos los profesores que han sido parte de nuestra formación y desarrollo en el Grupo New-Copy-Paste. Su dedicación, apoyo y conocimientos han sido esenciales en nuestro camino hacia la creación de New-Copy-Paste E-Commerce.
