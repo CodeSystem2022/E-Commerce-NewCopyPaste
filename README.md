@@ -47,8 +47,9 @@ Gracias a cada uno de nuestros profesores por su orientación, inspiración y ap
 
 Esta sección de agradecimiento reconoce de manera general a todos los profesores que han sido parte de tu formación y desarrollo en el Grupo New-Copy-Paste. No es necesario mencionar nombres específicos en este caso.
 
+![utn-nacional](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/7597112f-cd1b-4400-b1fe-917e8bb679f5)
 
-![utn-nacional](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/83142085-da6a-44b7-b803-9586eccad403)    ![bandera-argentina-gif6](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/defbdeaa-c492-45b9-bba3-16bcda81868a)
+    ![bandera-argentina-gif6](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/defbdeaa-c492-45b9-bba3-16bcda81868a)
 
 
 ## Capturas de Pantalla
