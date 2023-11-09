@@ -58,7 +58,7 @@ Aquí puedes ver algunas capturas de pantalla de nuestra plataforma en acción:
 
 
 ![pagina1](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/e931715c-8ec5-4a74-aef6-a30248374fa3)
----
+----
 
 ![3](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/66c748af-80dd-4fe8-9737-6602c54c3487)
 ---
