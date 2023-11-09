@@ -45,12 +45,11 @@ Aquí puedes ver algunas capturas de pantalla de nuestra plataforma en acción:
 ![Captura de Pantalla 2](ruta/a/imagen2.png)
 
 ## Agradecimientos
-Agradecemos a todos los que han contribuido, apoyado y probado nuestro proyecto. ¡Esperamos que esta plataforma sea útil para todos los emprendedores en línea!
+Queremos expresar nuestro sincero agradecimiento a todos los profesores que han sido parte de nuestra formación y desarrollo en el Grupo New-Copy-Paste. Su dedicación, apoyo y conocimientos han sido esenciales en nuestro camino hacia la creación de New-Copy-Paste E-Commerce.
 
----
+Gracias a cada uno de nuestros profesores por su orientación, inspiración y apoyo constante a lo largo de este proyecto y de nuestra carrera académica. Sus contribuciones han sido invaluables en nuestra formación y éxito.
 
-Recuerda reemplazar "ruta/a/imagen1.png" y "ruta/a/imagen2.png" con las rutas a tus propias capturas de pantalla para mostrar ejemplos visuales de tu proyecto. Además, puedes agregar más detalles, enlaces y personalizar esta presentación de acuerdo a tus necesidades. ¡Buena suerte con tu proyecto en GitHub!
-
+Esta sección de agradecimiento reconoce de manera general a todos los profesores que han sido parte de tu formación y desarrollo en el Grupo New-Copy-Paste. No es necesario mencionar nombres específicos en este caso.
 
 
 ![utn-nacional](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/83142085-da6a-44b7-b803-9586eccad403)    ![bandera-argentina-gif6](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/defbdeaa-c492-45b9-bba3-16bcda81868a)
