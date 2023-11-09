@@ -17,22 +17,15 @@
 ## Descripción del Proyecto
 New-Copy-Paste E-Commerce es un emocionante proyecto desarrollado como parte de nuestro cuarto semestre. Nuestra plataforma ofrece una solución integral para empresas y personas que desean incursionar en el mundo del comercio en línea. Con New-Copy-Paste, podrás crear tu propia tienda en línea, gestionar productos, categorías, precios, características y más, para llegar a tus clientes de manera efectiva.
 
-## Tecnologías y Herramientas Utilizadas
-Este proyecto se desarrolló utilizando diversas tecnologías y herramientas que contribuyen a su funcionalidad y diseño. A continuación, se detallan algunas de las principales:
-
-CodeIgniter en PHP: Hemos elegido el framework CodeIgniter para el desarrollo backend, aprovechando su estructura MVC (Modelo-Vista-Controlador) que facilita la organización y mantenimiento del código.
-
-Plantillas HTML Personalizadas: Utilizamos plantillas HTML que encontramos de manera gratuita como punto de partida. Posteriormente, las modificamos y personalizamos para adaptarlas a las necesidades específicas de nuestro E-Commerce.
-
-Base de Datos (por ejemplo, MySQL): Implementamos una base de datos para almacenar y gestionar la información esencial del proyecto, como usuarios, tiendas, productos y más.
-
-Lenguajes Frontend (HTML, CSS, JavaScript): Para la interfaz de usuario, utilizamos una combinación de HTML para la estructura, CSS para el diseño y JavaScript para la interactividad.
-
-Git y GitHub: Gestionamos el control de versiones del proyecto utilizando Git y almacenamos nuestro código en un repositorio en GitHub para facilitar la colaboración y el seguimiento de cambios.
-
-Despliegue en Servidor Web: La aplicación está desplegada en un servidor web para que los usuarios puedan acceder a ella de manera segura y conveniente.
-
-Este conjunto de tecnologías nos ha permitido crear una plataforma sólida y adaptable, y estamos continuamente explorando nuevas herramientas para mejorar y expandir nuestras capacidades.
+## Tecnologías Utilizadas
+CodeIgniter (PHP): Framework MVC para el desarrollo backend.
+Plantillas HTML Personalizadas: Adaptadas para una experiencia única.
+Base de Datos (por ejemplo, MySQL): Almacenamiento y gestión de datos.
+Frontend (HTML, CSS, JavaScript): Interfaz de usuario intuitiva y atractiva.
+Git y GitHub: Control de versiones y colaboración eficiente.
+Despliegue en Servidor Web: Acceso seguro a la aplicación.
+Acerca del Proyecto
+New-Copy-Paste E-Commerce es un proyecto en desarrollo basado en CodeIgniter y plantillas HTML personalizadas. Facilitamos la creación de tiendas en línea, con énfasis en la adaptabilidad y la mejora continua. ¡Explora y únete a nuestro viaje!
 
 ## Enlaces Relevantes
 - [Sitio Web del Proyecto](https://newcopypaste.tech/): Visita nuestro sitio web para obtener más información y registrarte.
