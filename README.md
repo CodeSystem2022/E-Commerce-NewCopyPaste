@@ -65,7 +65,6 @@ Queremos expresar nuestro sincero agradecimiento a todos los profesores que han 
 
 Gracias a cada uno de nuestros profesores por su orientación, inspiración y apoyo constante a lo largo de este proyecto y de nuestra carrera académica. Sus contribuciones han sido invaluables en nuestra formación y éxito.
 
-Esta sección de agradecimiento reconoce de manera general a todos los profesores que han sido parte de tu formación y desarrollo en el Grupo New-Copy-Paste. No es necesario mencionar nombres específicos en este caso.
 
 ![utn-nacional](https://github.com/CodeSystem2022/E-Commerce-NewCopyPaste/assets/106162059/7597112f-cd1b-4400-b1fe-917e8bb679f5)
 
