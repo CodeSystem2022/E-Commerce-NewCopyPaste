@@ -31,6 +31,15 @@ New-Copy-Paste E-Commerce es un proyecto en desarrollo basado en CodeIgniter y p
 ## Enlaces Relevantes
 - [Sitio Web del Proyecto](https://newcopypaste.tech/): Visita nuestro sitio web para obtener más información y registrarte.
 - [Ejemplo de una Tienda en Uso](https://newcopypaste.tech/tienda/play-on): Explora una tienda de ejemplo en nuestra plataforma.
+- 
+ ## Contacto
+
+Si tienes preguntas, sugerencias o necesitas asistencia, no dudes en ponerte en contacto con nosotros.
+
+- **Correo Electrónico:** [info@newcopypaste.tech](mailto:info@newcopypaste.tech)
+
+¡Estamos aquí para ayudarte en lo que necesites!
+
 
 ## Características Clave
 - Registro de usuarios para crear y gestionar tu propia tienda en línea.
