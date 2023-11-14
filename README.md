@@ -51,7 +51,7 @@ Si tienes preguntas, sugerencias o necesitas asistencia, no dudes en ponerte en 
 ## Integrantes del Equipo
 Nuestro proyecto fue desarrollado con pasión y dedicación por el equipo New-Copy-Paste. Conócenos:
 
-- 🧑 Matías Giménez
+- 🧑 Matías Ernesto Giménez
 - 🧑 Diego F. Mesas
 - 🧑 Sebastián Verguesio
 
